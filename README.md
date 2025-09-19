@@ -7,9 +7,8 @@ This project is designed to demonstrate evolutionary computation concepts and GA
 
 Example of classification results on sample datasets:
 
-<img width="800" alt="GA Classification Plot 1" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/e6026c0e-7438-4a82-938e-fb279186e906" />
 
-<img width="800" alt="GA Classification Plot 2" src="https://user-images.githubusercontent.com/18350557/176309784-1234567b-9127-417c-8b55-ab5a4333674e.gif" />
 
 > Replace these images with your own GA result plots if available.
 
