@@ -10,8 +10,6 @@ Example of classification results on sample datasets:
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/e6026c0e-7438-4a82-938e-fb279186e906" />
 
 
-> Replace these images with your own GA result plots if available.
-
 ## Features
 
 - Implements **Genetic Algorithm** for classification problems  
